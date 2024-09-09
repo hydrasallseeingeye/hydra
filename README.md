@@ -39,5 +39,5 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 13. [A execução de código não pode continuar porque UnityPlayer.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/13.md)
 14. [A execução de código não pode continuar porque XINPUT1_3.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/14.md)
 15. [ISDone.dll - An error occurred while unpacking: Does not match checksum! Unarc.dll returned an error code: -12](./errors/15.md) (Sem captura de tela)
-16. [Erro do sistema - A execução de código não pode continuar porque MSVCR100.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/17.md) (Sem captura de tela)
-17. [Erro de Pastas de Arquivo Comprimido - O Windows não consegue abrir a pasta. O suporte para o arquivo encriptado "..." está atualmente indisponível.](./errors/18.md) (Sem captura de tela)
+16. [Erro do sistema - A execução de código não pode continuar porque MSVCR100.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/16.md) (Sem captura de tela)
+17. [Erro de Pastas de Arquivo Comprimido - O Windows não consegue abrir a pasta. O suporte para o arquivo encriptado "..." está atualmente indisponível.](./errors/17.md) (Sem captura de tela)
