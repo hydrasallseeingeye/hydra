@@ -15,8 +15,8 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 
 ## 📚 Índice de guias
 
-1. [Como instalar o Hydra Launcher?](./guides/7.md)
-2. [Como resolver os jogos "Sem downloads disponíveis?"](./guides/8.md)
+1. [Como instalar o Hydra Launcher?](./guides/8.md)
+2. [Como resolver os jogos "Sem downloads disponíveis?"](./guides/7.md)
 3. [Meu jogo está em russo. Como posso trocar o idioma?](./guides/3.md)
 4. [O jogo pede uma senha de extração. Qual é a senha?](./guides/4.md)
 5. [Como restaurar arquivos excluídos pelo Windows Defender?](./guides/5.md)
