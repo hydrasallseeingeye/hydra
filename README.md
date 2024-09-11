@@ -21,6 +21,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 4. [O jogo pede uma senha de extração. Qual é a senha?](./guides/4.md)
 5. [Como restaurar arquivos excluídos pelo Windows Defender?](./guides/5.md)
 6. [Como instalar o Microsoft Gaming Services?](./guides/6.md)
+7. [Como adicionar uma exclusão no Windows Defender?](./guides/7.md)
 
 ## ❌ Índice de erros
 
@@ -38,6 +39,8 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 12. [Steam is not running. You must start Steam in order to play this game.](./errors/12.md)
 13. [A execução de código não pode continuar porque UnityPlayer.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/13.md)
 14. [A execução de código não pode continuar porque XINPUT1_3.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/14.md)
-15. [ISDone.dll - An error occurred while unpacking: Does not match checksum! Unarc.dll returned an error code: -12](./errors/15.md) (Sem captura de tela)
-16. [Erro do sistema - A execução de código não pode continuar porque MSVCR100.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/16.md) (Sem captura de tela)
-17. [Erro de Pastas de Arquivo Comprimido - O Windows não consegue abrir a pasta. O suporte para o arquivo encriptado "..." está atualmente indisponível.](./errors/17.md) (Sem captura de tela)
+15. [ISDone.dll - An error occurred while unpacking: Does not match checksum! Unarc.dll returned an error code: -12](./errors/15.md) 
+16. [ISDone.dll - An error occurred while unpacking! Unarc.dll returned an error code: -1](./errors/16.md) 
+17. [ISDone.dll - An error occurred while unpacking: Unable to write data to disk! Unarc.dll returned an error code: -11](./errors/17.md)
+17. [Erro do sistema - A execução de código não pode continuar porque MSVCR100.dll/MSVCR110.dll/MSVCR120.dll/MSVCR140.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](./errors/18.md) 
+18. [Erro de Pastas de Arquivo Comprimido - O Windows não consegue abrir a pasta. O suporte para o arquivo encriptado "..." está atualmente indisponível.](./errors/19.md)
