@@ -22,6 +22,7 @@ Estes são os componentes necessários para que os jogos sejam executados corret
 5. [Como restaurar arquivos excluídos pelo Windows Defender?](./guides/5.md)
 6. [Como instalar o Microsoft Gaming Services?](./guides/6.md)
 7. [Como adicionar uma exclusão no Windows Defender?](./guides/7.md)
+8. [Como extrair jogos com múltiplos arquivos compactados?](./guides/8.md)
 
 ## ❌ Índice de erros
 
